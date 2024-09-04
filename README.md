@@ -1,12 +1,27 @@
 ## E-Repair-Hub
 
-E-Repair-Hub is a web application that is developed in the Java platform by using Html, CSS, JavaScript, JSP, and Servlets. Here Students can download the complete Java & MySQL Project Source code, Project Report, PPT & Output Video.
+E Repair Hub is a web application that is developed in the Java platform by using Html, CSS, JavaScript, JSP, and Servlets. 
+
+## 📌 Build With
+
+![HTML5](https://img.icons8.com/?size=100&id=20909&format=png&color=000000) 
+![CSS3](https://img.icons8.com/?size=100&id=21278&format=png&color=000000)
+![JavaScript](https://img.icons8.com/?size=100&id=108784&format=png&color=000000)
+![Bootstrap](https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000)
+![JAVA](https://img.icons8.com/?size=100&id=Pd2x9GWu9ovX&format=png&color=000000)
+![NETBENS](https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000)
+![TOMCAT](https://img.icons8.com/?size=100&id=QFcVqyh6lBh6&format=png&color=000000)
+![MySQL](https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000)
+
+
+## INTRODUCTION
 
 This project deals with the features of “Easy repair of electronics”, which is developed to use an online application mode for E-Services at the doorstep.
 
 Nowadays the usage of electronics has increased, and if there are any problems with electronics, customers need to bring the electronics for repair to the nearest technicians. To overcome the issue we have come up with an online application that will provide technicians who can repair the electronics at the doorstep.
 
-Online Electronic Easy Repair is a supplier of local services. This provides search services, particularly for electronic devices, and is available on the internet and mobile phones. This website’s homepage includes two modules, one for customers and one for technicians. If a customer needs a service for their electronic devices, the customer can select the type of service he needs and can also select the location where the service is to be performed.
+
+E Repair Hub is a supplier of local services. This provides search services, particularly for electronic devices, and is available on the internet and mobile phones. This website’s homepage includes two modules, one for customers and one for technicians. If a customer needs a service for their electronic devices, the customer can select the type of service he needs and can also select the location where the service is to be performed.
 
 The Customer can select the technician who is available in the location and get the service done at his doorstep. Within a short period if the customer faces the same issue again then he can upload the softcopy of the invoice and can claim on the website. Our website can provide customers with one free and truthful service by checking the invoice.
 
