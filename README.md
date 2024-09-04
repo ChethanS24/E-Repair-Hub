@@ -83,4 +83,12 @@ The main module in this project is the customer. A customer has to register for 
 
 ## SCREENSHOTS
 
-![SCREENSHOTS]()
+**Homepages**
+![SCREENSHOTS](https://github.com/ChethanS24/E-Repair-Hub/blob/main/Sreenshots/Homepage%201.jpg)
+![SCREENSHOTS](https://github.com/ChethanS24/E-Repair-Hub/blob/main/Sreenshots/Homepage%202.jpg)
+![SCREENSHOTS](https://github.com/ChethanS24/E-Repair-Hub/blob/main/Sreenshots/Homepage%203.jpg)
+![SCREENSHOTS](https://github.com/ChethanS24/E-Repair-Hub/blob/main/Sreenshots/Homepage%204.jpg)
+
+**Admin Login**
+![SCREENSHOTS](https://github.com/ChethanS24/E-Repair-Hub/blob/main/Sreenshots/Admin%20Login.jpg)
+
